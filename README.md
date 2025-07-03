@@ -1,15 +1,13 @@
 # 📊 IPL 2022 Data Analysis Capstone Project  
 **Exploring cricket's biggest T20 league with Python, Matplotlib & Seaborn**  
 
-![IPL Banner](https://via.placeholder.com/800x200/33363A/FFFFFF?text=IPL+2022+Data+Analysis)  
-*(Replace with actual IPL/dataset banner if available)*  
-
 ## 🏆 Project Overview  
 This capstone project analyzes **IPL 2022 data** to uncover:  
 - Top performers (batsmen, bowlers, match winners)  
 - Venue insights  
 - Team performance trends  
-- Data-driven answers to key cricket questions  
+- Data-driven answers to key cricket questions
+- and many more stuffs.
 
 Built using:  
 🐍 Python | 📊 Pandas | 🎨 Matplotlib & Seaborn  
@@ -22,3 +20,12 @@ Built using:
 5. **Do teams win more by runs or wickets?**  
 
 ## 📂 Repository Structure  
+Distribution Plots
+Categorical Plots
+Matrix Plots
+Regression Plots
+Seaborn 
+Matplotlib.pyplot
+Plotly
+Cufflinks
+
