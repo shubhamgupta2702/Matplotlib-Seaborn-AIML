@@ -1,4 +1,4 @@
-# 📊 IPL 2022 Data Analysis Capstone Project  
+# 📊 Matplotlib - Seaborn and IPL 2022 Data Analysis Capstone Project  
 **Exploring cricket's biggest T20 league with Python, Matplotlib & Seaborn**  
 
 ## 🏆 Project Overview  
